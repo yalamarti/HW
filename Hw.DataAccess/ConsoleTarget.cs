@@ -5,7 +5,7 @@ using Hw.DataModels;
 namespace Hw.DataAccess
 {
     /// <summary>
-    /// Interface defining the behaviour of a 'console' on the file system as a repository target.
+    /// Interface defining the behaviour of a 'console' as a repository target.
     /// </summary>
     public class ConsoleTarget : IRepoTarget
     {
